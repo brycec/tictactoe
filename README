@@ -1,0 +1,1 @@
+A app for Google App engine that will allow the user to play tic tac toe against a computer. The AI is done serverside with an AJAX call.

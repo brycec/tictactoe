@@ -1,0 +1,12 @@
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.kosmonaut.tictactoe.client.TicService, false, false, false, false, _, 3271095642
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Integer, true, true, true, true, java.lang.Integer/3438268394, 3438268394
+[Ljava.lang.Integer;, true, true, true, true, [Ljava.lang.Integer;/1574882222, 1574882222
+[[Ljava.lang.Integer;, false, false, true, true, [[Ljava.lang.Integer;/4160668893, 4160668893
+java.lang.Long, true, true, false, false, java.lang.Long/4227064769, 4227064769
+[Ljava.lang.Long;, true, true, false, false, [Ljava.lang.Long;/97727328, 97727328
+java.lang.Number, true, false, true, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
